@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.lucaschan1020.gregtechnomi;
 
 import net.minecraftforge.common.config.Configuration;
 import net.minecraftforge.common.config.Property;

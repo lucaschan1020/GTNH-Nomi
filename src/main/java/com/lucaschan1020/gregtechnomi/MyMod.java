@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.lucaschan1020.gregtechnomi;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
